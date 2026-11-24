@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pdash6454-creator.github.io/durgesh-priyabrata/sitemap.xml
